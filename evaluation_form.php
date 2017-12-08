@@ -2,7 +2,7 @@
 <style type="text/css">
     select, input{
         display: block;
-        width: 100%;
+        width: 101%;
         padding: .5rem .75rem;
         font-size: 1rem;
         line-height: 1.25;
